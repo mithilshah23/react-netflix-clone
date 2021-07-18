@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo: [Link](https://netflix-clone-6ec8c.web.app/)
 
 ## Available Scripts
 
